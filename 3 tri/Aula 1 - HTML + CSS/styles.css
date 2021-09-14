@@ -1,0 +1,27 @@
+body {
+    background-color: green; 
+    color: red
+}
+h1 { 
+    color: black;
+    text-align: center;
+    font-size: 50;
+    font-weight: 10;
+}
+p {
+    text-align: center;
+}
+font {
+    color: white;
+    font-family: arial;
+    font-size: 20;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+    font-family: Times;
+    font-size: 30;
+}
+
+
